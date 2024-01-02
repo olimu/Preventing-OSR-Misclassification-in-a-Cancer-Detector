@@ -20,3 +20,11 @@ I found that IDOE achieves an average score of 94.8% in preventing the misdiagno
 * ncheck_thres.py used for analysis of the effect of different thresholds  
 uses thres.py for support routines  
 or argmaxisthres.py for support routines
+
+**Preventing-OSR-Misclassification-Paper.pdf** paper submitted to the National Science Talent Search Competition
+
+**Preventing-OSR-Misclassification-Poster.pdf** poster from the Pittsburgh Regional Science and Engineering Fair
+
+**Preventing-OSR-Misclassification-Slides.pdf:** slides from the Pennsylvania Junior Academy of Science competition where I won 1st place at the Region 7 and State Pennsylvania Junior Science Academy competitions in the Computer Science category
+
+
