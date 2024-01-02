@@ -1,5 +1,5 @@
 # Preventing-OSR-Misclassification-in-a-Cancer-Detector
-**Mitigating Open-Set Misclassification in a Colorectal Cancer Detecting Neural Network  **
+**Mitigating Open-Set Misclassification in a Colorectal Cancer Detecting Neural Network**
 
 Though AI models successfully classify objects they were trained on, they struggle when they encounter unfamiliar outlier objects that they weren’t trained on, which are prevalent in real world applications. Consider an algorithm trained to classify tumors as cancerous or non-cancerous. This algorithm successfully differentiates between tumors, however, when it comes across an unfamiliar non-tumorous tissue, like cancerous stroma, it misdiagnoses the patient. It’s impossible to train algorithms to recognize every tissue, so I developed Intra-Dataset Outlier Exposure (IDOE).
  
@@ -19,5 +19,4 @@ I found that IDOE achieves an average score of 94.8% in preventing the misdiagno
   * dataset_without_pytorch.py contains medMNIST data loading support routines  
 * ncheck_thres.py used for analysis of the effect of different thresholds  
 uses thres.py for support routines  
-or argmaxisthres.py for support routines  
-
+or argmaxisthres.py for support routines
